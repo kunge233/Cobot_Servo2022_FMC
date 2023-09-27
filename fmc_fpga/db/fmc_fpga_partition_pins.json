@@ -1,0 +1,109 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "spi_cs",
+					"strict" : false
+				},
+				{
+					"name" : "spi_clk",
+					"strict" : false
+				},
+				{
+					"name" : "spi_mosi",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[8]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[9]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[10]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[11]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[12]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[13]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[14]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[15]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_NL_NADV",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CS_NEL",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_RD_NOE",
+					"strict" : false
+				},
+				{
+					"name" : "spi_miso_b",
+					"strict" : false
+				},
+				{
+					"name" : "spi_miso_a",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

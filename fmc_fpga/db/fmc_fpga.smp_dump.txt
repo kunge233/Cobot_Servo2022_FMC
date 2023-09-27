@@ -1,0 +1,5 @@
+
+State Machine - |fmc_fpga|spi_drive_20b:u_spi_drive|current_state
+Name current_state.RandW 
+current_state.IDLE 0 
+current_state.RandW 1 

@@ -1,0 +1,137 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -9.420
+TNS   : -147.071
+
+Type  : Slow 1200mV 85C Model Setup 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -4.054
+TNS   : -234.749
+
+Type  : Slow 1200mV 85C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.504
+TNS   : -2.786
+
+Type  : Slow 1200mV 85C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : 1.336
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -1.487
+TNS   : -95.168
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.846
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 20.767
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -8.745
+TNS   : -136.462
+
+Type  : Slow 1200mV 0C Model Setup 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -4.137
+TNS   : -241.342
+
+Type  : Slow 1200mV 0C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.277
+TNS   : -2.368
+
+Type  : Slow 1200mV 0C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : 1.253
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -1.487
+TNS   : -95.168
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.846
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 20.776
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -4.210
+TNS   : -65.758
+
+Type  : Fast 1200mV 0C Model Setup 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -1.965
+TNS   : -112.961
+
+Type  : Fast 1200mV 0C Model Setup 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.763
+TNS   : -1.452
+
+Type  : Fast 1200mV 0C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.000
+TNS   : -3.331
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'spi_drive_20b:u_spi_drive|idel_flag0'
+Slack : -1.000
+TNS   : -64.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL_CLK|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.296
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 20.427
+TNS   : 0.000
+
+------------------------------------------------------------

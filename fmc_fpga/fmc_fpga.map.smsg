@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ads8363_read.v(45): always construct contains both blocking and non-blocking assignments File: G:/ad_file/servo2022hardware/test/test_fmc_final/fmc_fpga3/ads8363_read.v Line: 45

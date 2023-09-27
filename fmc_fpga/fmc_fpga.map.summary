@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jul 26 20:09:05 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : fmc_fpga
+Top-level Entity Name : fmc_fpga
+Family : Cyclone IV E
+Total logic elements : 296
+    Total combinational functions : 156
+    Dedicated logic registers : 205
+Total registers : 205
+Total pins : 27
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
